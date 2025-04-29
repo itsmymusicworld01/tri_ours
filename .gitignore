@@ -1,0 +1,15 @@
+__pycache__/
+input/
+output/
+venv
+.DS_Store
+checkpoints/
+checkpoint/
+.env
+.pth
+cloth-segmentation/model/cloth_segm.pth
+
+dwpose/keypoints/
+huggingface/
+
+safetychecker/model.safetensors
